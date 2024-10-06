@@ -1,6 +1,9 @@
 repeat task.wait() until game:IsLoaded()
 
 words = {
+    ['...'] = 'Bullying',
+    ['..'] = 'Bullying',
+    ['.'] = 'Bullying',
     ['sorry'] = 'Bullying',
     ['kill'] = 'Bullying',
     ['exploiter'] = 'Bullying',
